@@ -4,7 +4,7 @@ const CONFIG = {
   DEFAULT_LANGUAGE: 'en-us',
   DATABASE_NAME: 'resto-catalogue',
   DATABASE_VERSION: 1,
-  OBJECT_STORE_NAME: 'movies',
+  OBJECT_STORE_NAME: 'restaurants-db',
 };
 
 export default CONFIG;
