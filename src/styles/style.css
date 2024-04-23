@@ -188,13 +188,6 @@ main {
     margin: 16px 0;
 }
 
-.col {
-    width: calc(100% / 3 - 16px);
-    margin-bottom: 32px;
-    display: flex;
-    flex-direction: column;
-}
-
 .detail, resto-review {
     width: 70%;
     display: flex;
